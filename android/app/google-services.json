@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "245198308097",
+    "project_id": "fic-pos-donat-23660",
+    "storage_bucket": "fic-pos-donat-23660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245198308097:android:99280f06ead97439131100",
+        "android_client_info": {
+          "package_name": "com.example.capek_ngoding_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245198308097-aciuu3lg3f65h0uqes85d3251nuks9u8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capek_ngoding_web",
+            "certificate_hash": "af39f98b45c47d79ea9c52055cb347021d6fb260"
+          }
+        },
+        {
+          "client_id": "245198308097-eirmk0hch32vpsugv6qb531ja68e1nbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR77rwIQL4a_t6bNzoU7N_W6y6lbMXWTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245198308097-eirmk0hch32vpsugv6qb531ja68e1nbm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "245198308097-d2fuh5efm4nk312hkrb7fvvfe3bluj4i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.capekNgodingWeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
